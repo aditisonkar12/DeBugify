@@ -5,6 +5,12 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ---
 
+## 🪲 Tagline
+
+“DeBugify — Debug Smarter. Code Better.” 💡✨
+
+---
+
 ## 🚀 Features
 
 - ✅ Add, edit & delete bugs  
@@ -49,4 +55,70 @@ DeBugify/
 │  │  └─ low.svg
 ├─ LICENSE
 └─ README.md
+
+---
+
+## 📈 Analytics Section
+
+- Real-time chart updating when bugs are added/edited
+- LocalStorage-powered insights
+- Multiple chart types supported  
+- Planned Insights:
+    - Bug status ratio
+    - Severity-based workload
+    - Time-based progress 
+
+---
+
+## 🔜 Future Enhancements
+
+- 🔜 Future Enhancements
+- 🔄 Drag-and-drop Kanban feature
+- ☁️ Cloud database integration
+- 👤 User authentication & profiles
+- 🔔 Notifications & reminders
+- 🏷️ Labels & categories for more filtering
+- 🧩 Team collaboration mode
+
+---
+
+## 📸 UI Preview
+
+- Screenshots will be added once UI & analytics are completed.
+- Expected previews:
+    - 1️⃣ Dashboard View
+    - 2️⃣ Add/Edit Bug Modal
+    - 3️⃣ Analytics Dashboard
+
+---
+
+## 🤝 Contributions
+
+Contributions are always welcome!
+If you’d like to improve DeBugify:
+
+- Fork the project
+- Create a feature branch
+- Commit your changes
+- Open a pull request
+
+---
+
+## 🧑‍💻 Author
+
+Aditi Sonkar
+🔗 LinkedIn: https://www.linkedin.com/in/aditisonkar12/
+
+---
+
+## 🏷️ License
+
+This project is licensed under the MIT License — free to use, modify, and distribute.
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](...)
+
+---
+
+## ⭐ If you like this project, don’t forget to star the repo on GitHub!
+
+---
 
