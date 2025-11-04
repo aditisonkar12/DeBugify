@@ -32,3 +32,20 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ## 🗂 Folder Structure
 
+DeBugify/
+
+├─ index.html
+├─ style.css
+├─ script.js
+├─ charts/
+│ └─ charts.js # Handles Chart.js configuration and runtime updating
+├─ assets/
+│ ├─ icons/
+│ │ ├─ add.svg
+│ │ ├─ edit.svg
+│ │ ├─ delete.svg
+│ │ ├─ critical.svg
+│ │ ├─ medium.svg
+│ │ └─ low.svg
+├─ LICENSE
+└─ README.md
