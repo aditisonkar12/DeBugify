@@ -36,28 +36,6 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ---
 
-## 🗂 Folder Structure
-
-DeBugify/
-│
-├─ index.html
-├─ style.css
-├─ script.js
-├─ charts/
-│  └─ charts.js        # Chart.js configuration & updates
-├─ assets/
-│  ├─ icons/
-│  │  ├─ add.svg
-│  │  ├─ edit.svg
-│  │  ├─ delete.svg
-│  │  ├─ critical.svg
-│  │  ├─ medium.svg
-│  │  └─ low.svg
-├─ LICENSE
-└─ README.md
-
----
-
 ## 📈 Analytics Section
 
 - Real-time chart updating when bugs are added/edited
@@ -79,16 +57,6 @@ DeBugify/
 - 🔔 Notifications & reminders
 - 🏷️ Labels & categories for more filtering
 - 🧩 Team collaboration mode
-
----
-
-## 📸 UI Preview
-
-- Screenshots will be added once UI & analytics are completed.
-- Expected previews:
-    - 1️⃣ Dashboard View
-    - 2️⃣ Add/Edit Bug Modal
-    - 3️⃣ Analytics Dashboard
 
 ---
 
