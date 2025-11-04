@@ -107,6 +107,7 @@ If you’d like to improve DeBugify:
 ## 🧑‍💻 Author
 
 Aditi Sonkar
+
 🔗 LinkedIn: https://www.linkedin.com/in/aditisonkar12/
 
 ---
@@ -114,11 +115,11 @@ Aditi Sonkar
 ## 🏷️ License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
+
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](...)
 
 ---
 
 ## ⭐ If you like this project, don’t forget to star the repo on GitHub!
 
----
 
