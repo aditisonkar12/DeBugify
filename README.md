@@ -13,15 +13,15 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ## 🚀 Features
 
-- ✅ Add, edit & delete bugs  
-- 📌 Track Status: To Do → In Progress → Done  
-- 🩺 Severity Levels: Critical / Medium / Low  
-- 📊 Analytics Dashboard (Chart.js)
+- Add, edit & delete bugs  
+- Track Status: To Do → In Progress → Done  
+- Severity Levels: Critical / Medium / Low  
+- Analytics Dashboard (Chart.js)
   - Severity distribution chart
   - Status progress chart  
-- 💾 LocalStorage data persistence  
-- 📱 Responsive UI using Tailwind CSS  
-- ♻️ Scalable architecture for backend integration later  
+- LocalStorage data persistence  
+- Responsive UI using Tailwind CSS  
+- Scalable architecture for backend integration later  
 
 ---
 
