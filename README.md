@@ -36,6 +36,29 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ---
 
+## 📁 Project Structure
+
+```
+DeBugify/
+├─ index.html
+├─ style.css
+├─ script.js
+├─ charts/
+│  └─ charts.js        # Chart.js configuration & updates
+├─ assets/
+│  ├─ icons/
+│  │  ├─ add.svg
+│  │  ├─ edit.svg
+│  │  ├─ delete.svg
+│  │  ├─ critical.svg
+│  │  ├─ medium.svg
+│  │  └─ low.svg
+├─ LICENSE
+└─ README.md
+```
+
+---
+
 ## 📈 Analytics Section
 
 - Real-time chart updating when bugs are added/edited
