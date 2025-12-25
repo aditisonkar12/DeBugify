@@ -50,13 +50,12 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ## 🔜 Future Enhancements
 
-- 🔜 Future Enhancements
-- 🔄 Drag-and-drop Kanban feature
-- ☁️ Cloud database integration
-- 👤 User authentication & profiles
-- 🔔 Notifications & reminders
-- 🏷️ Labels & categories for more filtering
-- 🧩 Team collaboration mode
+- Drag-and-drop Kanban feature
+- Cloud database integration
+- User authentication & profiles
+- Notifications & reminders
+- Labels & categories for more filtering
+- Team collaboration mode
 
 ---
 
