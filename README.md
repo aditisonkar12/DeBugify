@@ -7,7 +7,7 @@ Built using **HTML, Tailwind CSS, JavaScript**, and **Chart.js analytics**, it o
 
 ## 🪲 Tagline
 
-“DeBugify — Debug Smarter. Code Better.” 💡✨
+“DeBugify — Debug Smarter. Code Better.” 💡
 
 ---
 
