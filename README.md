@@ -44,7 +44,7 @@ DeBugify/
 ├─ style.css
 ├─ script.js
 ├─ charts/
-│  └─ charts.js        # Chart.js configuration & updates
+│  └─ charts.js        
 ├─ assets/
 │  ├─ icons/
 │  │  ├─ add.svg
