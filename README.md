@@ -68,7 +68,6 @@ DeBugify/
     - Bug status ratio
     - Severity-based workload
     - Time-based progress 
-
 ---
 
 ## 🔜 Future Enhancements
